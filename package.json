@@ -1,0 +1,11 @@
+{
+  "name": "asm-ethers",
+  "version": "1.0.0",
+  "description": "ASM Ethers",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "keywords": ["ethers", "asm"],
+  "author": "SEE CONTRIBUTORS",
+  "license": "UPL-1.0"
+}
